@@ -1,0 +1,28 @@
+const imageUrlList = [
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/example-project-image.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-1.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-2.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-3.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-4.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/truck-scales-preview-img.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/example-project-image.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-1.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-2.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-3.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-4.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/truck-scales-preview-img.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/example-project-image.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-1.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-2.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-3.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-4.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/truck-scales-preview-img.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/example-project-image.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-1.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-2.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-3.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/auto-play-row-img-4.jpg" },
+  { imageUrl: "https://vesta.zamvald.com/wp-content/uploads/2024/06/truck-scales-preview-img.jpg" },
+];
+
+export default imageUrlList;
